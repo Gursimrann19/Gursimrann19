@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="left">Your Name / README.md</h1>
 
 ## 🌀 About Me:
@@ -16,15 +15,49 @@
 
 ## ⭐ Featured Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,aws,react,express,nodejs,mongodb,git,unity,threejs,github" alt="tech stack icons" />
-</p>
+### 🧩 MERN Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Wonderland%20Engine-6C3483?style=for-the-badge&logoColor=white" alt="Wonderland Engine" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br /><sub><b>Express</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br /><sub><b>HTML</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+  </tr>
+</table>
+
+### 🎮 Game & XR Development
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/-6C3483?style=flat&logoColor=white&logo=webxr" width="48" height="48" alt="Wonderland Engine" /><br /><sub><b>Wonderland</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /><br /><sub><b>Unity</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br /><sub><b>C#</b></sub></td>
+  </tr>
+</table>
+
+### 🔧 Version Control & Cloud
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br /><sub><b>GitLab</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br /><sub><b>AWS</b></sub></td>
+  </tr>
+</table>
+
+### 🤖 AI & LLM Tools
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/-D97757?style=flat&logo=anthropic&logoColor=white" width="48" height="48" alt="Claude" /><br /><sub><b>Claude</b></sub></td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/-1C3C3C?style=flat&logo=langchain&logoColor=white" width="48" height="48" alt="LangChain" /><br /><sub><b>LangChain</b></sub></td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats:
 
@@ -44,17 +77,3 @@
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
-<!--
-**Gursimrann19/Gursimrann19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
