@@ -3,14 +3,15 @@
 ## 🌀 About Me:
 
 - 🌱 I'm currently learning **Production level AI Integration into Existing Workflows**
+  <!--
 - 👤 All of my work is available at: [![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=flat&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
 - 📄 resume: [![Resume](https://img.shields.io/badge/Resume-2ea44f?style=flat&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
-
+-->
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gursimrann19/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gursimrann25@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](Not available yet.)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)(Not available yet.)
 
 ## ⭐ Featured Skills
 
